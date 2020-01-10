@@ -1,1 +1,4 @@
 git clone <URL-for-reprosetory>
+git diff #This command is used to get the diffrence which are not yet staged
+# This staging area is just a preview of your next commit... statging step / phase allows you to continue making changes in the woring directory, until
+
